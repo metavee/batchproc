@@ -1,0 +1,5 @@
+batch-processing==0.1.0
+cloudpickle==0.2.1
+configparser==3.5.0
+doit==0.29.0
+six==1.10.0
